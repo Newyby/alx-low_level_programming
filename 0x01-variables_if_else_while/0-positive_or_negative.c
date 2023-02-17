@@ -5,7 +5,7 @@
 /**
  * main - Print if number is positive, zero or negative
  * Return: (Success)
- *
+*
 */
 
 int main(void)
@@ -20,7 +20,7 @@ If(n > 0)
 Print f("%d is positive\n", n);
 }
 else if (n == 0)
-{
+i{
 Print f("%d is zero\n", n);
 }
 else
